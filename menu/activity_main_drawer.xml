@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Explore Topics">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/liked"
+                android:icon="@android:drawable/ic_menu_view"
+                android:title="Saved Topics" />
+            <item
+                android:id="@+id/disliked"
+                android:icon="@android:drawable/ic_menu_delete"
+                android:title="Disliked Topics" />
+
+        </menu>
+    </item>
+
+    <item android:title="Sign Out">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/sign_out"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="Sign Out" />
+
+        </menu>
+    </item>
+
+</menu>
