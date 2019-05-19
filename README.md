@@ -1,5 +1,5 @@
 # Laws-of-Development
-Application provides short, relevant self-development articles that users can go through quickly and make the most out of. It utilizes a swiplable cards design to improve user interaction and simplify the use of the application. Swiping right saves the topic to your saved topics container, swiping left saves it to the disliked topics container and clicking on a topic displays a brief summary of it aimed to help the user decide whether to read the article or no.
+Android application that provides short, relevant self-development articles that users can go through quickly and make the most out of. It utilizes a swiplable cards design to improve user interaction and simplify the use of the application. Swiping right saves the topic to your saved topics container, swiping left saves it to the disliked topics container and clicking on a topic displays a brief summary of it aimed to help the user decide whether to read the article or no.
 
 ![login_reg choice](https://user-images.githubusercontent.com/42480955/57981320-c3745500-79ea-11e9-8139-ed8c8443c7a8.PNG)
 
