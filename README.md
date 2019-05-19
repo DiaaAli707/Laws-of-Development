@@ -32,8 +32,10 @@ Application provides short, relevant self-development articles that users can go
     - The DB schema should be as such:
     ![db schema](https://user-images.githubusercontent.com/42480955/57959620-89effc80-78b9-11e9-94a8-c75e0395c4d5.PNG)
     
-  2. Copy the attached code to the following location: app/src/main/java/-/-/-/-
+  2. Copy the files in the code folder to the following location: app/src/main/java/-/-/-/-
     - The dashes represent your package name which will be different from mine
+    
+  3. Copy the AndroidManifest file and make sure to add you package name in the package name field
   
   3. Replace the drawable folder generated when you created a new android project with the one provided
   
