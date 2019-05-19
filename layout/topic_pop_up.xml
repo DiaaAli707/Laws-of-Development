@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="#2f333f"
+    android:fillViewport="true"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/topicName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:paddingBottom="10dp"
+            android:text="HOW TO BE AWESOME"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_orange_dark"
+
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/topicImg"
+            android:layout_width="350dp"
+            android:layout_height="230dp"
+            android:layout_gravity="center"
+            android:paddingBottom="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/freedom" />
+
+        <TextView
+            android:id="@+id/topicID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:textColor="@android:color/holo_orange_light"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>
+
+
