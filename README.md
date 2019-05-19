@@ -37,7 +37,7 @@ Application provides short, relevant self-development articles that users can go
     
   3. Copy the AndroidManifest file and make sure to add you package name in the package name field
   
-  3. Replace the drawable folder generated when you created a new android project with the one provided
+  3. Copy the drawable, menu, values and layout folders to the res folder created when a new application is creatd 
   
   4. Run the application
   
