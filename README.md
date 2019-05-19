@@ -11,9 +11,9 @@ Android application that provides short, relevant self-development articles that
 
 ![main](https://user-images.githubusercontent.com/42480955/57981336-e56dd780-79ea-11e9-8387-6734571523b7.PNG)
 
-![side menu](https://user-images.githubusercontent.com/42480955/57981346-07675a00-79eb-11e9-9a02-95b4b5f89b36.PNG)
-
 ![on topic click](https://user-images.githubusercontent.com/42480955/57981352-1d751a80-79eb-11e9-9397-5af8adc0bcdf.PNG)
+
+![side menu](https://user-images.githubusercontent.com/42480955/57981346-07675a00-79eb-11e9-9a02-95b4b5f89b36.PNG)
 
 ![saved](https://user-images.githubusercontent.com/42480955/57981369-675e0080-79eb-11e9-9348-7361b40839a4.PNG)
 
