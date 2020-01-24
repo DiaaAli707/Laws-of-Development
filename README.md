@@ -35,12 +35,12 @@ Android application that provides short, relevant personal-development articles 
   2. Copy the files in the code folder to the following location: app/src/main/java/-/-/-/-
     - The dashes represent your package name which will be different from mine
     
-  3. Copy the AndroidManifest file and make sure to add you package name in the package name field
+  3. Copy the AndroidManifest file and make sure to add your package name in the package name field
   
   3. Copy the drawable, menu, values and layout folders to the res folder created when a new application is creatd 
   
   4. Run the application
   
 # Note
-   - The Application currently doesnt display articles, it is up to you to customize it how you please.
+   - The Application currently doesnt display actual articles. It is still a work in progress.
 
