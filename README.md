@@ -19,7 +19,7 @@ Android application that provides short, relevant personal-development articles 
 
 ![disliked](https://user-images.githubusercontent.com/42480955/57981379-7ba1fd80-79eb-11e9-9956-f5b91f899574.PNG)
 
-![topic display](https://user-images.githubusercontent.com/42480955/57981482-dc7e0580-79ec-11e9-8b9e-9e50859ab009.PNG)
+![topic display](https://user-images.githubusercontent.com/42480955/73045072-3f982580-3e21-11ea-8c96-2cfa23842bac.PNG)
 
 # Developed Using:
   - Android Studio
