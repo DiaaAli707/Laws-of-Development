@@ -9,9 +9,9 @@ Android application that provides short, relevant personal-development articles 
 
 ![login page](https://user-images.githubusercontent.com/42480955/57981323-c40ceb80-79ea-11e9-804b-03ce496a5e13.PNG)
 
-![main](https://user-images.githubusercontent.com/42480955/57981336-e56dd780-79ea-11e9-8387-6734571523b7.PNG)
+![main](https://user-images.githubusercontent.com/42480955/73044981-edef9b00-3e20-11ea-8f9f-2b0425a83ebe.PNG)
 
-![on topic click](https://user-images.githubusercontent.com/42480955/57981352-1d751a80-79eb-11e9-9397-5af8adc0bcdf.PNG)
+![main3](https://user-images.githubusercontent.com/42480955/73045001-fea01100-3e20-11ea-9816-ab43905d4aca.PNG)
 
 ![side menu](https://user-images.githubusercontent.com/42480955/57981346-07675a00-79eb-11e9-9a02-95b4b5f89b36.PNG)
 
